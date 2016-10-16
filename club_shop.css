@@ -1,0 +1,37 @@
+.images {
+    text-align:center;
+}
+.images img {
+    width:100px;
+    height:100px;
+}
+.images div {
+    width:100px;
+    text-align:center;
+}
+.images div span {
+    display:block;
+}
+.margin_right {
+    margin-right:50px;
+}
+.float {
+    float:left;
+}
+.clear {
+    clear:both;
+    height:0;
+    width:0;
+}
+body {
+    color: white;
+    font-weight: 900;
+    background-color:  #00124d;
+    padding:10px;
+    padding-bottom:60px;
+}
+
+#footer {position: relative;
+	margin-top: 550px; /* negative value of footer height */
+	height: 10px;
+	clear:both;} 

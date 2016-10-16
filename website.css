@@ -1,0 +1,12 @@
+body {
+    color: white;
+    font-weight: 900;
+    background-color:  #00124d;
+    padding:10px;
+    padding-bottom:60px;
+}
+
+#footer {position: relative;
+	margin-top: 550px; /* negative value of footer height */
+	height: 10px;
+	clear:both;} 
