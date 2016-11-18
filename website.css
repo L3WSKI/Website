@@ -36,3 +36,7 @@ a:hover {
 iframe {
     border-width: 1px;
 }
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+}
